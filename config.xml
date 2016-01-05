@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "net.madran.bby261.bootstrap"
-        versionCode = "1" 
-        version     = "0.0.1" >
+        id          = "bby261.gizemtelli.katalog"
+        versionCode = "10" 
+        version     = "1.0.0" >
 
     <!-- Standart Uygulama Verileri -->
 
-    <name>Bootstrap Örnek Uygulaması</name>
+    <name>Katalog</name>
 
     <description>
-        Bootstrap platformu ile ilgil örnek uygulama
+        Katolag uygulaması
     </description>
 
-    <author href="http://www.madran.net" email="orcunmadran@gmail.com">
-        Orçun Madran
+    <author>
+       Gizem Telli
     </author>
         
     <!-- Derleme Platformu -->
@@ -23,17 +23,15 @@
         
     <!-- Ek Özellikler -->
 
-    <!-- <preference name="orientation" value="landscape" /> -->
-    <preference name="fullscreen" value="false" />
     <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="false" />
         
-    <!-- Açılış Ekranı ve İkon -->
+    <!-- İkon -->
      
-    <icon src="images/icon.png" />
-    <gap:splash src="images/splash.png" />
-    <preference name="splash-screen-duration" value="2000"/>
+    <icon src="icon.png" />
         
     <!-- Uygulama Hakları -->
     
     <preference name="permissions" value="none"/>
+        
 </widget>
