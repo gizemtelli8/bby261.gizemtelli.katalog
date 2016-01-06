@@ -7,7 +7,7 @@ var catalog = [
         "itemDescription":"<p>Franz Kafka'nın Dava adlı romanının bu çevirisi, yazarın Oxford Metinleri diye adlandırılan el yazıları üzerinde Amerikalı ve Alman uzman-ların yaptıkları son çalışmalarla oluşturulan metinden yapıldı.Dava, Korku Çağı diye adlandırılan 20. yüzyılda insanoğlunun artık neredeyse kurtulunması olanaksız bir yazgıya dönüşen kuşatılmış yaşamının öyküsüdür.Bu çağa korku egemendir, çünkü insan, hemcinsleriyle insanca bir dil aracılığıyla iletişim kurabilme, böyle bir dille insanca tepkiler uyandırabilme olanağından yoksun kalmıştır. Albert Camus'nün deyişiyle, bu olanağın bulunmadığı bir çağ artık ancak Korku Çağı diye adlandırılabilir.Kafka'nın Dava'da betimlediği yargılama süreci, böyle bir çağın en güçlü simgelerinden biridir ve onun eseri, insan insanın korkusu olarak kaldığı sürece, güncelliğini hiç yitirmeyecektir.</p>"
     }, 
 	{
-        "itemName":"Charlie'nin Çikolata Fabrikaso",
+        "itemName":"Charlie'nin Çikolata Fabrikası",
         "itemAuthor":"Ronald Dahl",
         "itemImage":"kapak/charlie.jpg",
         "itemCreationDate":"2015",
