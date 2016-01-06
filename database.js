@@ -13,6 +13,14 @@ var catalog = [
         "itemCreationDate":"2015",
         "itemDescription":"<p>Charlie; annesi, babası, iki ninesi ve iki dedesiyle, büyük bir kentin bitiminde, küçük bir tahta barakada yaşamaktadır.Yoksuldurlar. Charlie çikolataya bayılır, ama alacak parası yoktur. Biriktirilen parayla, yılda bir kez,küçük bir çikolata girer evlerine. Bu büyük kentte, Charlie'lerin evinden bile görülen, kocaman bir çikolata fabrikası vardır; dünyanın en ünlü çikolatalarını üretir. Günlerden bir gün, fabrikanın sahibi Bay Wonka, imparatorluğunu devredeceği bir varis seçmek için yarışma düzenlediğini açıklar; Charlie de adaylardan biridir...</p>"
     }, 
+    
+    {
+        "itemName":"Charlie'nin Büyük Cam Asansörü",
+        "itemAuthor":"Ronald Dahl",
+        "itemImage":"kapak/camasansor.jpg",
+        "itemCreationDate":"2015",
+        "itemDescription":"<p>Daha önce yayımladığımız Çarlı'nin Çikolata Fabrikası adlı kitabını çocuklar için çok sevmişti. O kitabı okuyanlar bilecektir: Yoksul Çarli, sonunda büyük bir çikolata fabrikasının sahibi olmuştu. Bay Wonka, Çarli'yle ailesini, büyük cam asansörüne bindirip bir yolculuğa çıkarmıştı. İşte elinizdeki kitap, Çarli'nin Büyük Cam Asansörü, bu yolculuğun öyküsünü anlatıyor...</p>"
+    }, 
 	{
         "itemName":"Fil",
         "itemAuthor":"Raymond Carver",
@@ -34,6 +42,13 @@ var catalog = [
         "itemImage":"kapak/kucukkarabalik.jpg",
         "itemCreationDate":"2015",
         "itemDescription":"<p>Kış ortasında bir akşam vaktiydi. Denizin en derin yerinde, yaşlı mı yaşlı bir balık nine sayıları on iki bini bulan çocuklarıyla torunlarını çevresine toplamış, onlara bir masal anlatıyordu...</p>"
+    }, 
+    {
+        "itemName":"Dönüşüm",
+        "itemAuthor":"Franz Kafka",
+        "itemImage":"kapak/donusum.jpg",
+        "itemCreationDate":"2015",
+        "itemDescription":"<p>Franz Kafka'nın 1915'te yayımlanan Dönüşüm adlı öyküsü, yazarın, anlatım sanatının doruğuna ulaştığı bir eseridir. Küçük burjuva çevrelerindeki yozlaşmış aile ilişkilerini en ince ayrıntılarına kadar irdeleyen bu uzun öykü, aynı zamanda toplumun dayattığı, işlevini çoktan yitirmiş kalıplara bilinç düzeyinde başkaldıran bireyin tragedyasını çarpıcı bir biçimde dile getirir. Kitabın Değişim olarak bilinen adının gerçekte Dönüşüm olduğu, ifadesini Ahmet Cemal'in açıklamasında bulur: Gregor Samsa'nın bir sabah kendini yatağında bir böcek olarak bulması, salt bir değişim değil fakat 'başkalaşım'dır O, insanlığını koruyarak bazı değişiklikler geçirmemiştir; artık farklı bir canlı türü olmuştur.Bu açıklama, Kafka'nın eserini tanımlarken kullandığı ifadeyle de örtüşür: Herkes, beraberinde taşıdığı bir parmaklığın ardında yaşıyor. Şimdi hayvanlarla ilgili bunca şey yazılmasının nedeni de bu. Özgür ve doğal bir yaşama duyulan özlemin ifadesi. Oysa insanlar için doğal yaşam, insanca yaşamdır. Ama bunu anlamıyorlar. Anlamak istemiyorlar. İnsan gibi yaşamak çok güç, o nedenle hiç olmazsa kurgusal düzeyde bundan kurtulma isteği var... Hayvana geri dönülüyor. Böylesi, insanca yaşamaktan çok daha kolay.</p>"
     },
     
     
